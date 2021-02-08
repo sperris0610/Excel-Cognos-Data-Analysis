@@ -1,4 +1,4 @@
-# Excel-Data-Analysis
+# Excel-Cognos-Data-Analysis
 Excel worksheets
 
 Part 1 : clean data (blanks, spelling, double blank spaces)
